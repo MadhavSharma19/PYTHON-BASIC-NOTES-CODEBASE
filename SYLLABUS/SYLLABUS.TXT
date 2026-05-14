@@ -1,0 +1,385 @@
+```txt id="pyflow92"
+========================================================
+         PYTHON PROGRAMMING COMPLETE COURSE
+                 (2 MONTHS PROGRAM)
+========================================================
+
+COURSE OVERVIEW
+|
+|--> Python Fundamentals
+|
+|--> Control Flow & Functions
+|
+|--> Data Structures
+|
+|--> Object Oriented Programming
+|
+|--> Exception Handling
+|
+|--> File Handling
+|
+|--> Collections Framework
+|
+|--> GUI Development with Tkinter
+|
+|--> Numerical Computing with NumPy
+|
+|--> Data Analysis with Pandas
+|
+|--> Real World Projects
+
+
+========================================================
+              MODULE FLOW DIAGRAM
+========================================================
+
+Python Complete Course
+|
+|--> Module 1 : Introduction to Python
+|      |--> What is Python?
+|      |--> Features of Python
+|      |--> Installing Python
+|      |--> First Python Program
+|      |--> Python Basics
+|      |--> Namespace & Scope
+|      |--> Input / Output Functions
+|      |--> Conditional Statements
+|      |--> Functions
+|      |      |--> Function Overloading
+|      |
+|      |--> Iterations / Loops
+|      |--> Python Keywords
+|      |--> Python Statements
+|
+|--> Module 2 : Input / Output
+|      |--> print() Function
+|      |--> Newline Character
+|      |--> sep Parameter
+|      |--> end Parameter
+|      |--> Console Input
+|      |--> Formatted Output
+|             |--> f-Strings
+|             |--> format() Method
+|             |--> % Formatting
+|
+|--> Module 3 : Operators
+|      |--> Arithmetic Operators
+|      |--> Division Operators
+|      |--> Comparison Operators
+|      |--> Logical Operators
+|      |--> Assignment Operators
+|      |--> Membership Operators
+|      |--> Identity Operators
+|      |--> Bitwise Operators
+|      |--> Ternary Operator
+|      |--> Operator Precedence
+|
+|--> Module 4 : Variables
+|      |--> Variables Basics
+|      |--> Naming Rules
+|      |--> Global Variables
+|      |--> Local Variables
+|      |--> Packing & Unpacking
+|      |--> Swapping Variables
+|      |--> Type Conversion
+|      |--> Byte vs String Objects
+|      |--> Access Modifiers
+|             |--> Public Variables
+|             |--> Protected Variables
+|             |--> Private Variables
+|
+|--> Module 5 : Data Types
+|      |--> Lists
+|      |--> Tuples
+|      |--> Sets
+|      |--> Dictionary
+|      |--> Arrays
+|      |--> Slicing
+|      |--> Data Type Comparison
+|
+|--> Module 6 : Control Flow
+|      |--> if Statement
+|      |--> if-else Statement
+|      |--> if-elif-else Ladder
+|      |--> Nested if
+|      |--> Short-hand if
+|      |--> for Loop
+|      |--> while Loop
+|      |--> break Statement
+|      |--> continue Statement
+|      |--> pass Statement
+|      |--> Looping Techniques
+|
+|--> Module 7 : Object Oriented Programming
+|      |--> Classes & Objects
+|      |--> Constructors
+|      |      |--> Default Constructor
+|      |      |--> Parameterized Constructor
+|      |      |--> Constructor with Default Values
+|      |      |--> Copy Constructor
+|      |
+|      |--> Class Methods
+|      |--> Static Methods
+|      |--> Inheritance
+|      |      |--> Single Inheritance
+|      |      |--> Multiple Inheritance
+|      |      |--> Multilevel Inheritance
+|      |      |--> Hierarchical Inheritance
+|      |      |--> Hybrid Inheritance
+|      |      |--> Diamond Problem
+|      |
+|      |--> Abstraction
+|      |--> Encapsulation
+|      |--> Polymorphism
+|      |--> Method Overloading
+|      |--> Operator Overloading
+|      |--> Dunder Methods
+|      |--> Four Pillars of OOP
+|
+|--> Module 8 : Exception Handling
+|      |--> Errors vs Exceptions
+|      |--> try-except
+|      |--> try-except-else-finally
+|      |--> Built-in Exceptions
+|      |--> Raising Exceptions
+|      |--> User Defined Exceptions
+|
+|--> Module 9 : File Handling
+|      |--> Opening Files
+|      |--> Reading Files
+|      |--> Writing Files
+|      |--> with Statement
+|      |--> CSV Files
+|      |--> JSON Files
+|
+|--> Module 10 : Python Collections
+|      |--> Counter
+|      |--> defaultdict
+|      |--> namedtuple
+|      |--> deque
+|      |--> ChainMap
+|      |--> heapq
+|
+|--> Module 11 : Tkinter GUI Framework
+|      |--> Introduction to Tkinter
+|      |--> Tkinter Widgets
+|      |      |--> Button
+|      |      |--> Entry
+|      |      |--> Canvas
+|      |      |--> Checkbox
+|      |      |--> Radio Button
+|      |
+|      |--> Layout Managers
+|      |--> Calculator Project
+|      |--> CRUD Operations
+|
+|--> Module 12 : NumPy
+|      |--> ndarray Concept
+|      |--> Array Creation
+|      |--> Indexing & Slicing
+|      |--> Boolean Indexing
+|      |--> Fancy Indexing
+|      |--> Broadcasting
+|      |--> Shape Manipulation
+|      |--> Statistical Functions
+|      |--> Random Number Generation
+|      |--> Linear Algebra
+|      |--> Advanced NumPy Techniques
+|
+|--> Module 13 : Pandas
+       |--> Series
+       |--> DataFrame
+       |--> Data Loading
+       |--> Data Cleaning
+       |--> Data Manipulation
+       |--> GroupBy & Aggregation
+       |--> Merge & Join
+       |--> Pivot Tables
+       |--> Time Series Analysis
+       |--> Visualization
+       |--> Optimization
+       |--> Real World Data Analysis
+
+
+========================================================
+               PYTHON FUNCTIONS FLOW
+========================================================
+
+Functions
+|
+|--> Function Definition
+|
+|--> Function Calling
+|
+|--> Parameters & Arguments
+|
+|--> Return Statement
+|
+|--> Default Arguments
+|
+|--> Keyword Arguments
+|
+|--> Variable Length Arguments
+|      |--> *args
+|      |--> **kwargs
+|
+|--> Lambda Functions
+|
+|--> Recursive Functions
+|
+|--> Nested Functions
+|
+|--> Anonymous Functions
+|
+|--> Function Overloading
+|
+|--> Higher Order Functions
+|
+|--> Decorators
+|
+|--> Generators
+|
+|--> Iterators
+
+
+========================================================
+                    OOP FLOW
+========================================================
+
+Object Oriented Programming
+|
+|--> Classes
+|
+|--> Objects
+|
+|--> Constructors
+|
+|--> Encapsulation
+|
+|--> Abstraction
+|
+|--> Inheritance
+|      |--> Single
+|      |--> Multiple
+|      |--> Multilevel
+|      |--> Hierarchical
+|      |--> Hybrid
+|
+|--> Polymorphism
+|      |--> Method Overloading
+|      |--> Method Overriding
+|      |--> Operator Overloading
+|
+|--> Dunder Methods
+|
+|--> Static Methods
+|
+|--> Class Methods
+
+
+========================================================
+                EXCEPTION HANDLING FLOW
+========================================================
+
+Exception Handling
+|
+|--> Errors
+|
+|--> Exceptions
+|
+|--> try Block
+|
+|--> except Block
+|
+|--> else Block
+|
+|--> finally Block
+|
+|--> raise Statement
+|
+|--> Custom Exceptions
+|
+|--> Built-in Exceptions
+
+
+========================================================
+                 NUMPY FLOW
+========================================================
+
+NumPy
+|
+|--> ndarray
+|
+|--> Array Creation
+|
+|--> Indexing
+|
+|--> Slicing
+|
+|--> Broadcasting
+|
+|--> Array Operations
+|
+|--> Shape Manipulation
+|
+|--> Statistical Functions
+|
+|--> Random Module
+|
+|--> Linear Algebra
+|
+|--> Advanced NumPy
+
+
+========================================================
+                 PANDAS FLOW
+========================================================
+
+Pandas
+|
+|--> Series
+|
+|--> DataFrame
+|
+|--> Data Loading
+|
+|--> Data Cleaning
+|
+|--> Data Manipulation
+|
+|--> GroupBy Operations
+|
+|--> Merge & Join
+|
+|--> Pivot Tables
+|
+|--> Time Series Analysis
+|
+|--> Data Visualization
+|
+|--> Optimization Techniques
+|
+|--> Real World Analysis
+
+
+========================================================
+                 COURSE OUTCOME
+========================================================
+
+After completing this course students will be able to:
+
+1. Understand Python programming fundamentals.
+2. Write efficient Python programs.
+3. Work with functions and control statements.
+4. Apply Object Oriented Programming concepts.
+5. Handle exceptions and files effectively.
+6. Use Python collections and advanced utilities.
+7. Build GUI applications using Tkinter.
+8. Perform numerical computing using NumPy.
+9. Analyze and process datasets using Pandas.
+10. Create real-world Python projects confidently.
+11. Prepare for internships and technical interviews.
+12. Build a strong foundation for AI, ML, and Data Science.
+
+========================================================
+```

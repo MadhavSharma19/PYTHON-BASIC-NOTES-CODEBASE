@@ -1,0 +1,14 @@
+enter rock paper sissors r
+computer won 
+
+
+
+r p s 
+
+user 
+computer
+
+
+
+want to play again yes 
+no ---->exit
