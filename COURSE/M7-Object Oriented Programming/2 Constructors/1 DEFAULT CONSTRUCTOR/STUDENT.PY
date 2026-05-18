@@ -8,11 +8,12 @@ class Student:
     # Default Constructor
     def __init__(self):
 
-        print("Student Object Created")
+        
 
         self.name = "Aman"
         self.age = 20
         self.course = "Python"
+    
 
     # Method to display details
     def show_details(self):
@@ -26,4 +27,4 @@ class Student:
 s1 = Student()
 
 # Calling Method
-s1.show_details()
+s1.self.name()

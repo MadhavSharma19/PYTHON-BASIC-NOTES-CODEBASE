@@ -24,5 +24,5 @@ user2 = BankAccount("Priya", 75000)
 
 # Display Data
 user1.show_balance()
-print()
+
 user2.show_balance()

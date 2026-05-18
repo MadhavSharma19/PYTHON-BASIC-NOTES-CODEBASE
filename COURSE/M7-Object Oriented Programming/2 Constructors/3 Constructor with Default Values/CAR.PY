@@ -22,12 +22,12 @@ class Car:
 car1 = Car()
 
 # Object with custom values
-car2 = Car("BMW", "White")
+car2 = Car("BMW")
 
 print("Car 1 Details")
 car1.show_car()
 
-print()
+
 
 print("Car 2 Details")
 car2.show_car()
