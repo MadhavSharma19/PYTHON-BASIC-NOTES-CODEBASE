@@ -1,10 +1,15 @@
 # Topic: while Loop
 # Real Life Scenario: Website Login
 
-password = ""
+password = ""  
 
-while password != "python123":
+while password != "67":
+    
 
     password = input("Enter Password: ")
-
+#loop exit
 print("✅ Access Granted")
+
+
+
+
