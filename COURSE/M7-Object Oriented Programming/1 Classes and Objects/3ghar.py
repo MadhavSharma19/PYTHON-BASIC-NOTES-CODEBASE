@@ -2,13 +2,13 @@ class Ghar:
 
     def __init__(self, a):
 
-        self.a = a
+        self.v = a
 
     def gharbanao(self):
 
         print("ghar ban gya")
 
-        print(f"number of floor = {self.a}")
+        print(f"number of floor = {self.v}")
 
 
 mistri = Ghar(3)
