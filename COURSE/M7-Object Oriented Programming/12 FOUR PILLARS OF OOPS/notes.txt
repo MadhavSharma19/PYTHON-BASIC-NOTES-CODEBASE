@@ -1,0 +1,8 @@
+🧠 Understanding the Four Pillars
+
+     Pillar	            Meaning
+
+ 1   Encapsulation	    Wrapping data and methods
+ 2   Abstraction	    Hiding implementation
+ 3   Inheritance	    Acquiring properties
+ 4   Polymorphism	    One thing many forms

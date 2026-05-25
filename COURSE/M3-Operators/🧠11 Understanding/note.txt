@@ -1,0 +1,14 @@
+🎯 Final Understanding
+
+
+Topic	        Main Purpose
+Arithmetic	    Maths
+Division	    Divide values
+Comparison	    Compare values
+Logical	        Combine conditions
+Assignment	    Store/update
+Membership	    Check presence
+Identity	    Check memory
+Bitwise	        Binary operations
+Ternary	        Short if-else
+Precedence	    Order of execution

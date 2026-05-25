@@ -1,0 +1,17 @@
+🧠 Install Required Libraries
+            pip install pandas
+            pip install matplotlib
+
+
+
+🎯 Real Life Uses of Pandas
+    ✅ Data Science
+    ✅ AI & Machine Learning
+    ✅ Excel Automation
+    ✅ Business Analytics
+    ✅ Stock Market Analysis
+    ✅ Web Scraping Data
+    ✅ Dashboard Projects
+    ✅ Banking Systems
+    ✅ Sales Analysis
+    ✅ Student Management Systems

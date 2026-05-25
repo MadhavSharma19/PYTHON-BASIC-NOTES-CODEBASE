@@ -1,0 +1,18 @@
+🧠 NumPy Installation
+            pip install numpy
+
+
+🎯 Real Life Uses of NumPy
+
+    ✅ AI & Machine Learning
+    ✅ Data Science
+    ✅ Image Processing
+    ✅ Robotics
+    ✅ Game Development
+    ✅ Scientific Computing
+    ✅ Data Analysis
+    ✅ Computer Vision
+
+
+
+    

@@ -1,0 +1,10 @@
+🧠 Definition
+
+Operator precedence decides which operation runs first.
+
+Priority:
+       1     ()
+       2     **
+       3     *, /
+       4     //, %
+       5     +, -

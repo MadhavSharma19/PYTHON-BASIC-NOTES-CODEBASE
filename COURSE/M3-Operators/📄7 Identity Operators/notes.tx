@@ -1,0 +1,8 @@
+📄 Identity Operators
+🧠 Definition
+
+Identity operators compare memory locations.
+
+Operator	    Meaning
+is	            Same object
+is not	        Different object

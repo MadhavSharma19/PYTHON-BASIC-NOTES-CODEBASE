@@ -1,0 +1,29 @@
+🧠 Understanding File Modes
+
+Mode	            Meaning
+r	                Read File
+w	                Write File
+a	                Append Data
+x	                Create File
+
+
+
+🧠 Difference Between CSV and JSON
+
+CSV	                JSON
+Stores table data	Stores structured data
+Uses commas	        Uses key:value pairs
+Easy for Excel	    Easy for APIs
+
+
+
+🎯 Real Life Use Cases
+
+✅ Student Management System
+✅ Banking Applications
+✅ AI Chatbots
+✅ Login Systems
+✅ Data Storage
+✅ Excel Automation
+✅ Web APIs
+✅ Data Science Projects

@@ -1,0 +1,24 @@
+🧠 Full Explanation
+
+
+    Topic	                    Meaning
+
+    Errors	                    Syntax mistakes
+    Exceptions	                Runtime problems
+    try	                        Risky code
+    except	                    Handles exception
+    else	                    Runs if no error
+    finally	                    Always runs
+    raise	                    Create exception manually
+    User Defined Exception	    Custom exception class
+
+
+🎯 Real Life Use of Exception Handling
+
+✅ ATM Machine
+✅ Banking Apps
+✅ Login Systems
+✅ Payment Gateways
+✅ File Handling
+✅ AI Chatbots
+✅ Web Applications

@@ -1,0 +1,22 @@
+🧠 Understanding Collections
+
+Collection	        Purpose
+Counter	            Counts frequency
+defaultdict	        Default values
+namedtuple	        Named tuple fields
+deque	            Fast queue operations
+ChainMap	        Combine dictionaries
+heapq	            Heap operations
+
+
+
+🎯 Real Life Uses
+
+✅ Chat Applications
+✅ Queue Systems
+✅ Banking Systems
+✅ AI Projects
+✅ Data Analysis
+✅ Game Development
+✅ Task Scheduling
+✅ Search Algorithms
