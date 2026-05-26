@@ -7,11 +7,11 @@ import pandas as pd
 # Student dataset
 data = {
 
-    "Name": ["Madhav", "Arjun", "Simran", "Karan"],
+    "Name": ["Madhav", "Arjun", "Simran", "Karan","Navraj"],
 
-    "Marks": [95, 88, 97, 70],
+    "Marks": [95, 88, 97, 70,88],
 
-    "Course": ["Python", "Java", "AI", "Python"]
+    "Course": ["Python", "Java", "AI", "Python","Python Fs"]
 }
 
 df = pd.DataFrame(data)
