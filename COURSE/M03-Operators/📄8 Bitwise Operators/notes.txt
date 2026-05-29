@@ -1,4 +1,0 @@
-📄 Bitwise Operators
-🧠 Definition
-
-Bitwise operators work on binary numbers.

@@ -1,0 +1,4 @@
+📄 Ternary Operator
+🧠 Definition
+
+Ternary operator is a short form of if-else.

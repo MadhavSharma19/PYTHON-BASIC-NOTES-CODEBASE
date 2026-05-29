@@ -1,4 +1,0 @@
-📄 Assignment Operators
-🧠 Definition
-
-Assignment operators are used to store and update values.

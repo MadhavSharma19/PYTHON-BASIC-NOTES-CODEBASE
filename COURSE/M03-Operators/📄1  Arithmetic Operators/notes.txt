@@ -1,9 +1,0 @@
-📄 Arithmetic Operators
-🧠 Definition
-
-Arithmetic operators are used to perform mathematical operations like:
-
-                    Addition
-                    Subtraction
-                    Multiplication
-                    Division

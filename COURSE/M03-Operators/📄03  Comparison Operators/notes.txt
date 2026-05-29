@@ -1,0 +1,7 @@
+📄 Comparison Operators
+🧠 Definition
+
+Comparison operators compare two values and return:
+
+True
+False

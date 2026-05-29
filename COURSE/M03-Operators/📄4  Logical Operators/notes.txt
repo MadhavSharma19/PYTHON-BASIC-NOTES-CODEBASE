@@ -1,9 +1,0 @@
-📄 Logical Operators
-🧠 Definition
-
-Logical operators are used to combine conditions.
-
-Operator	Meaning
-and	        Both conditions True
-or	        One condition True
-not	        Reverse condition

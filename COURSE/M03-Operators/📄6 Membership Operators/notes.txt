@@ -1,8 +1,0 @@
-📄 Membership Operators
-🧠 Definition
-
-Membership operators check whether an element exists in a sequence.
-
-Operator	Meaning
-in	        Present
-not in	    Not Present
